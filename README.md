@@ -1,5 +1,10 @@
 # python_bikes
 
+
+
+![WhatsApp Image 2025-07-31 at 22 39 11_8eb7db4e](https://github.com/user-attachments/assets/e58b908f-779f-4039-beb1-09ee6d116735)
+
+
 This project contains bike data, which includes information such as model year, owner, kilometers driven, model name, location, prices, power, and mileage. We have analyzed this data to create this project, and its report has also been uploaded. Within this project, bike brands, their owners, and how many kilometers each bike has run (kilometers driven) are presented using a bar graph. Furthermore, in the subsequent series, bike models are displayed annually using a line chart. The bikes' locations are shown based on the top 10 cities, also using a line chart.
 
  * "This project contains bike data, which includes information such as model year, owner, kilometers driven, model name, location, prices, power, and mileage."
